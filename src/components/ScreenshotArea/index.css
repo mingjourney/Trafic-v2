@@ -1,0 +1,17 @@
+.workArea {
+  flex-flow: column;
+  justify-items: center;
+  display: flex;
+  margin: 10px;
+  height: 310px;
+  overflow: auto;
+  color: #215f75;
+}
+
+.workArea canvas {
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  border-radius: 10px;
+  /* height: 20vh !important; */
+  margin: 10px;
+  /* width: 100px !important; */
+}

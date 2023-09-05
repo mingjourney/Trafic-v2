@@ -1,0 +1,31 @@
+{
+    "status": 0,
+    "data": {
+        "earlyWarningList": [
+            {
+                "warningId": "001",
+                "subName": "Jiuhe Road"
+            },
+            {
+                "warningId": "002",
+                "subName": "Xianghu"
+            },
+            {
+                "warningId": "003",
+                "subName": "Datieguan"
+            },
+            {
+                "warningId": "004",
+                "subName": "Sanbao"
+            },
+            {
+                "warningId": "005",
+                "subName": "Wenze Road"
+            },
+            {
+                "warningId": "006",
+                "subName": "Jiangjin Road"
+            }
+        ]
+    }
+}

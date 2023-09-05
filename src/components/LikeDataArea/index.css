@@ -1,0 +1,56 @@
+.likeData {
+  display: flex;
+  flex: 4;
+}
+
+/* .likeData :nth-child(3) {
+    flex: 1.6;
+  } */
+.likeData ul>li {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  height: 100px;
+  font-size: 17px;
+  font-weight: 0;
+  padding: 10px 20px;
+  margin: 12px 20px;
+  border-radius: 7px;
+  box-shadow: rgba(99, 99, 99, 0.1) 0px 2px 8px 0px;
+  background-color: #fff;
+}
+
+.likeData ul>li span {
+  font-weight: 400;
+  font-size: 14px;
+  margin-right: 25px;
+  width: 57px;
+  overflow-wrap: break-word;
+
+  /* writing-mode: vertical-lr; */
+  line-height: 1.2;
+  letter-spacing: 2px;
+}
+
+/* .commonTime :nth-child(1) {
+  height: 50px;
+  border-right: 10px solid rgba(148, 91, 220, 0.6);
+}
+
+.commonTime :nth-child(2) {
+  height: 60px;
+  border-right: 10px solid rgba(76, 154, 231, 0.6);
+}
+
+.commonTime :nth-child(3) {
+  height: 70px;
+  border-right: 10px solid rgba(91, 187, 126, 0.6);
+} */
+.favorStation {
+  background-color: #f9f9f9;
+}
+
+.workArea {
+  background-color: #f9f9f9;
+  margin: 0;
+}

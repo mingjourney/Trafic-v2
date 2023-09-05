@@ -1,0 +1,20 @@
+.likeData .item .content ul {
+  padding: 0;
+}
+
+.likeData button {
+  display: block;
+}
+
+.likeData .item .choose button:hover {
+  background-color: rgb(208, 205, 205);
+}
+
+.likeData .lable {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  height: 60px;
+  line-height: 60px;
+  border-bottom: 2px solid #f2f2f2;
+}

@@ -1,0 +1,17 @@
+.item .user {
+  width: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: end;
+}
+
+.item .user span {
+  cursor: pointer;
+  margin-right: 10px;
+  line-height: 25px;
+  text-align: center;
+  width: 70px;
+  height: 25px;
+  font-size: 12px;
+  border-radius: 5px;
+}

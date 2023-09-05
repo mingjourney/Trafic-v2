@@ -1,0 +1,15 @@
+.personnalSelection {
+  display: flex;
+  justify-content: space-between;
+  height: 60px;
+  line-height: 60px;
+  font-size: 12px;
+  color: #90908f;
+  font-weight: 700;
+  border-top: 2px solid #f1f1f1;
+  border-bottom: 2px solid #f1f1f1;
+}
+
+.personnalSelection span {
+  margin: 0 30px;
+}
